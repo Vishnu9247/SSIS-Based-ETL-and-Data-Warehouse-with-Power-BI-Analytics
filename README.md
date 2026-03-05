@@ -41,7 +41,8 @@ SSIS-BASED-ETL-AND-DATA-WAREHOUSE/
 │
 ├── images/
 │   ├── Dashboard.png            # Power BI dashboard screenshot
-│   └── pipeline.png             # SSIS pipeline design screenshot
+│   |── pipeline.png             # SSIS pipeline design screenshot
+|   |__ Power Automate Flow.png  # Power Automate flow
 │
 ├── DataImportSchema.sql         # SQL script to create schemas & dimension tables
 ├── FactSales.sql                # SQL script to create FactSales table
@@ -107,6 +108,12 @@ Dynamic **Row-Level Security (RLS)** was implemented using DAX to restrict data 
 ![Power BI Dashboard](./images/Dashboard.png)
 
 ---
+
+## Reporting Automation
+
+A flow was created to automatically send emails to managers implying to Row level security principles established.
+
+![Powe Automate Flow](./images/Power Automate Flow.png)
 
 ## 🔐 Security & Governance
 
