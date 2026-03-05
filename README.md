@@ -65,7 +65,7 @@ The SSIS package performs:
 
 ### ETL Pipeline Design
 
-![SSIS Pipeline](./images/pipeline.png)
+![SSIS Pipeline](imges/pipeline.png)
 
 ---
 
@@ -105,7 +105,7 @@ Dynamic **Row-Level Security (RLS)** was implemented using DAX to restrict data 
 
 ### Dashboard Preview
 
-![Power BI Dashboard](./images/Dashboard.png)
+![Power BI Dashboard](imges/Dashboard.png)
 
 ---
 
