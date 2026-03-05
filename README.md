@@ -113,7 +113,7 @@ Dynamic **Row-Level Security (RLS)** was implemented using DAX to restrict data 
 
 A flow was created to automatically send emails to managers implying to Row level security principles established.
 
-![Power Automate Flow](images/power_automate_flow.png)
+![Power Automate Flow](imges/Power_Automate_Flow.png)
 
 ## 🔐 Security & Governance
 
